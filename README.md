@@ -8,7 +8,7 @@ Each guess gives you color feedback to help you find the correct word — just l
 
 🚀 Live Demo
 
-👉 https://github.com/ahmednabil22224/guess-game
+👉 [https://github.com/ahmednabil22224/guess-game](https://ahmednabil22224.github.io/guess-game/)
 
 ---
 
