@@ -2,7 +2,7 @@
 
 A fun and interactive Word Guessing Game built with HTML, CSS, and JavaScript.
 The goal is to guess a randomly generated 6-letter word within a limited number of tries.
-Each guess gives you color feedback to help you find the correct word — just like Wordle!
+Each guess gives you color feedback to help you find the correct word — just like Wordle! 
 
 ---
 
